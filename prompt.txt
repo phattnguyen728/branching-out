@@ -1,6 +1,0 @@
-Welcome to the third Git exercise!
-You won't find any questions here this time, so you'll need to use Git branching to find them!
-
-Please see Learn for full instructions.
-
-Enjoy your journey!!!
