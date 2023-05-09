@@ -1,7 +1,7 @@
 You found the third question!
 
 1. What is your favorite kind of weather?
-
+Nice Fall Afternoon weather
 Once you've answered, add and commit your change, then push that new commit to the appropriate branch in your fork.
 
 Once you've done that, head to the fourth-question branch for the next question!
