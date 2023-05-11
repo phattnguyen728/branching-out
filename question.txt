@@ -1,7 +1,7 @@
 You found the first question!
 
 1. Which of the questions asked thus far is your favorite?
-Favorite Command question. kasdjklfjaskldfjlasdjfklaklsdfjko
+what the fudge
 Once you've answered, add and commit your change, then push that new commit to the appropriate branch in your fork.
 
 Once you've done that, proceed to the next section in Learn!
